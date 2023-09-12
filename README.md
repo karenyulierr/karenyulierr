@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 Hola, soy una apasionada programadora con tres años de experiencia en tecnologías como PHP (CodeIgniter, Laravel, Livewire) y JavaScript (Vue.js, Nuxt.js), así como en herramientas de diseño web como Vuetify, HTML, Bootstrap y CSS, respaldada por sólidos conocimientos en MySQL y control de versiones con Git. Originaria de Colombia, estoy ansiosa por destacar en proyectos emocionantes y aprender de nuevas experiencias. Mi determinación y mentalidad de aprendizaje continuo me impulsan a sobresalir y contribuir de manera efectiva en equipos de desarrollo. Si busca a alguien con un conjunto sólido de habilidades técnicas y pasión por la tecnología, ¡estoy lista para formar parte de su equipo y enfrentar nuevos desafíos con entusiasmo!
 
 
