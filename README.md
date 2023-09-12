@@ -2,7 +2,7 @@
 Hola, soy una apasionada programadora con tres años de experiencia en tecnologías como PHP (CodeIgniter, Laravel, Livewire) y JavaScript (Vue.js, Nuxt.js), así como en herramientas de diseño web como Vuetify, HTML, Bootstrap y CSS, respaldada por sólidos conocimientos en MySQL y control de versiones con Git. Originaria de Colombia, estoy ansiosa por destacar en proyectos emocionantes y aprender de nuevas experiencias. Mi determinación y mentalidad de aprendizaje continuo me impulsan a sobresalir y contribuir de manera efectiva en equipos de desarrollo. Si busca a alguien con un conjunto sólido de habilidades técnicas y pasión por la tecnología, ¡estoy lista para formar parte de su equipo y enfrentar nuevos desafíos con entusiasmo!
 
 
-## 🌐 Socials:
+## 🌐 Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karen-yulier-rodriguez/) 
 
 # 💻 Tech Stack:
@@ -18,7 +18,3 @@ Hola, soy una apasionada programadora con tres años de experiencia en tecnolog�
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=karenyulierr&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=karenyulierr&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
